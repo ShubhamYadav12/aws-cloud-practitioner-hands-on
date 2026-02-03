@@ -17,6 +17,11 @@ This repository contains screenshots and documentation from completing the AWS C
 - **11-auto-scaling/** - EC2 Auto Scaling configurations and policies
 - **12-certificates-badges/** - Completion certificates and achievement badges
 
+## How to Navigate This Repository
+Each numbered folder represents a hands-on lab or concept completed during the AWS Cloud Quest program.
+Folders contain screenshots captured directly from the AWS Management Console to demonstrate practical implementation.
+
+
 ## Completion Details
 - **Course**: AWS Cloud Quest: Cloud Practitioner
 - **Completed**: January 04, 2026
@@ -30,3 +35,8 @@ This repository contains screenshots and documentation from completing the AWS C
 - Cloud security fundamentals
 - Cost optimization and management
 - Networking concepts in AWS
+
+## Note
+This repository is created for educational and demonstration purposes to showcase hands-on cloud learning and foundational AWS skills. No production systems or sensitive data are included.
+
+
