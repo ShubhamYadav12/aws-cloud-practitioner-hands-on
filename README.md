@@ -1,6 +1,6 @@
 # AWS Cloud Quest: Cloud Practitioner - Project Files
 
-This repository contains screenshots and documentation from completing the AWS Cloud Quest: Cloud Practitioner training.
+This repository contains screenshots and documentation from completing the AWS Cloud Quest: Cloud Practitioner training, showcasing hands-on labs across core AWS services such as EC2, VPC, IAM, S3, RDS, DynamoDB, Auto Scaling, and high availability architectures.
 
 ## Folder Structure
 
@@ -18,9 +18,10 @@ This repository contains screenshots and documentation from completing the AWS C
 - **12-certificates-badges/** - Completion certificates and achievement badges
 
 ## How to Navigate This Repository
-Each numbered folder represents a hands-on lab or concept completed during the AWS Cloud Quest program.
+Each numbered folder represents a hands-on lab or concept completed during the AWS Cloud Quest program.  
 Folders contain screenshots captured directly from the AWS Management Console to demonstrate practical implementation.
 
+The goal of this repository is to demonstrate practical cloud fundamentals and console-based implementation of AWS services relevant to entry-level cloud and internship roles.
 
 ## Completion Details
 - **Course**: AWS Cloud Quest: Cloud Practitioner
@@ -30,13 +31,11 @@ Folders contain screenshots captured directly from the AWS Management Console to
 
 ## Skills Acquired
 - AWS core services (EC2, S3, RDS, DynamoDB, VPC, IAM)
+- Cloud security fundamentals
 - High availability and fault tolerance
 - Auto Scaling and load balancing
-- Cloud security fundamentals
 - Cost optimization and management
 - Networking concepts in AWS
 
 ## Note
 This repository is created for educational and demonstration purposes to showcase hands-on cloud learning and foundational AWS skills. No production systems or sensitive data are included.
-
-
